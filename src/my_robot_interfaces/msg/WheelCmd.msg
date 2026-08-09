@@ -1,0 +1,2 @@
+float32 right_pwm
+float32 left_pwm

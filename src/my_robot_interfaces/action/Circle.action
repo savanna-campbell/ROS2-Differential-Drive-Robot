@@ -1,0 +1,11 @@
+# Goal
+float32 radius
+float32 velocity
+float32 duration
+---
+# Result
+bool success
+string message
+---
+# Action
+float32 percent_complete
