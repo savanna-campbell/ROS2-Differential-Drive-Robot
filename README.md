@@ -50,7 +50,7 @@ git clone https://github.com/savanna-campbell/Ros2-Differential-Drive-Robot.git
 cd Ros2-Differential-Drive-Robot
 
 # Install ROS2 dependencies
-# TODO: rosdep install / pip install -r requirements.txt, whichever applies
+# TODO: rosdep install 
 
 # Flash the Arduino firmware (robot_code/) onto the Arduino
 # TODO: exact command / IDE step
