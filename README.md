@@ -52,8 +52,6 @@ cd Ros2-Differential-Drive-Robot
 # Install ROS2 dependencies
 # TODO: rosdep install 
 
-# Flash the Arduino firmware (robot_code/) onto the Arduino
-# TODO: exact command / IDE step
 ```
 
 <!-- ## Usage
